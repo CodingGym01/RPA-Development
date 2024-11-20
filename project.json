@@ -1,6 +1,6 @@
 {
-  "name": "NotepadAutomation",
-  "projectId": "af8812a4-6773-4389-9f3a-dff765480683",
+  "name": "screen scrapping automation",
+  "projectId": "94c37d67-cec0-4eb1-aab9-199f6406ce95",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "968e95d7-bda4-4bcf-9dea-b86e9a972739",
+      "uniqueId": "085e50f6-c133-4c06-baa9-241d1e4339d9",
       "input": [],
       "output": []
     }
